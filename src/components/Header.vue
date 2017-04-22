@@ -22,10 +22,10 @@
 
 <style scoped>
 
-  @import url('https://fonts.googleapis.com/css?family=Yellowtail');
+  @import url('https://fonts.googleapis.com/css?family=Satisfy');
 
   h1 {
-    font-family: 'Yellowtail', cursive;
+    font-family: 'Satisfy', cursive;
     font-size: 70px;
   }
 
